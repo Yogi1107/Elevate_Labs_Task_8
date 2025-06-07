@@ -1,0 +1,97 @@
+Order Date,Month Year,Region,Category,Sales,Profit
+01-01-23,01-2023,West,Technology,500,150
+03-01-23,01-2023,East,Furniture,300,80
+05-01-23,01-2023,Central,Office Supplies,200,60
+10-02-23,02-2023,West,Technology,700,210
+15-02-23,02-2023,East,Office Supplies,250,90
+20-02-23,02-2023,Central,Furniture,400,110
+25-02-23,02-2023,West,Technology,600,180
+01-03-23,03-2023,East,Furniture,350,100
+05-03-23,03-2023,Central,Technology,800,240
+10-03-23,03-2023,West,Office Supplies,450,130
+15-03-23,03-2023,East,Technology,550,160
+20-03-23,03-2023,Central,Furniture,300,85
+25-03-23,03-2023,West,Furniture,600,170
+01-04-23,04-2023,East,Office Supplies,400,120
+05-04-23,04-2023,Central,Technology,700,210
+10-04-23,04-2023,West,Furniture,500,150
+15-04-23,04-2023,East,Technology,300,90
+20-04-23,04-2023,Central,Furniture,450,125
+25-04-23,04-2023,West,Office Supplies,350,100
+01-05-23,05-2023,East,Technology,800,230
+05-05-23,05-2023,Central,Furniture,600,180
+10-05-23,05-2023,West,Technology,900,270
+15-05-23,05-2023,East,Furniture,500,150
+20-05-23,05-2023,Central,Office Supplies,400,120
+25-05-23,05-2023,West,Furniture,550,160
+01-06-23,06-2023,East,Technology,750,225
+05-06-23,06-2023,Central,Furniture,300,90
+10-06-23,06-2023,West,Office Supplies,250,75
+15-06-23,06-2023,East,Technology,650,200
+20-06-23,06-2023,Central,Office Supplies,450,135
+25-06-23,06-2023,West,Technology,700,210
+01-07-23,07-2023,East,Furniture,400,120
+05-07-23,07-2023,Central,Technology,500,150
+10-07-23,07-2023,West,Furniture,600,180
+15-07-23,07-2023,East,Office Supplies,300,90
+20-07-23,07-2023,Central,Technology,550,165
+25-07-23,07-2023,West,Furniture,700,210
+01-08-23,08-2023,East,Technology,850,250
+05-08-23,08-2023,Central,Furniture,750,220
+10-08-23,08-2023,West,Office Supplies,500,140
+15-08-23,08-2023,East,Furniture,650,195
+20-08-23,08-2023,Central,Technology,900,270
+25-08-23,08-2023,West,Technology,950,280
+01-09-23,09-2023,East,Office Supplies,300,85
+05-09-23,09-2023,Central,Furniture,400,115
+10-09-23,09-2023,West,Furniture,450,130
+15-09-23,09-2023,East,Technology,700,210
+20-09-23,09-2023,Central,Office Supplies,350,100
+25-09-23,09-2023,West,Furniture,500,150
+01-10-23,10-2023,East,Technology,600,180
+05-10-23,10-2023,Central,Furniture,650,200
+10-10-23,10-2023,West,Office Supplies,550,160
+15-10-23,10-2023,East,Furniture,400,110
+20-10-23,10-2023,Central,Technology,800,240
+25-10-23,10-2023,West,Furniture,750,225
+01-11-23,11-2023,East,Technology,900,270
+05-11-23,11-2023,Central,Furniture,850,255
+10-11-23,11-2023,West,Office Supplies,600,180
+15-11-23,11-2023,East,Furniture,700,210
+20-11-23,11-2023,Central,Technology,950,290
+25-11-23,11-2023,West,Technology,1000,300
+01-12-23,12-2023,East,Office Supplies,500,140
+05-12-23,12-2023,Central,Furniture,600,180
+10-12-23,12-2023,West,Furniture,700,210
+15-12-23,12-2023,East,Technology,800,240
+20-12-23,12-2023,Central,Office Supplies,450,130
+25-12-23,12-2023,West,Furniture,550,160
+28-12-23,12-2023,East,Technology,720,210
+30-12-23,12-2023,Central,Furniture,630,180
+02-01-24,01-2024,West,Technology,880,265
+04-01-24,01-2024,East,Office Supplies,470,145
+06-01-24,01-2024,Central,Furniture,520,160
+08-01-24,01-2024,West,Furniture,700,210
+10-01-24,01-2024,East,Technology,860,250
+12-01-24,01-2024,Central,Office Supplies,490,150
+14-01-24,01-2024,West,Technology,930,275
+16-01-24,01-2024,East,Furniture,650,200
+18-01-24,01-2024,Central,Technology,720,215
+20-01-24,01-2024,West,Office Supplies,400,120
+22-01-24,01-2024,East,Furniture,610,185
+24-01-24,01-2024,Central,Technology,810,240
+26-01-24,01-2024,West,Furniture,670,200
+28-01-24,01-2024,East,Technology,920,270
+30-01-24,01-2024,Central,Furniture,750,225
+01-02-24,02-2024,West,Technology,980,290
+03-02-24,02-2024,East,Office Supplies,520,155
+05-02-24,02-2024,Central,Furniture,560,165
+07-02-24,02-2024,West,Furniture,720,215
+09-02-24,02-2024,East,Technology,890,265
+11-02-24,02-2024,Central,Office Supplies,510,150
+13-02-24,02-2024,West,Technology,940,280
+15-02-24,02-2024,East,Furniture,680,205
+17-02-24,02-2024,Central,Technology,860,255
+19-02-24,02-2024,West,Office Supplies,470,140
+21-02-24,02-2024,East,Furniture,630,190
+23-02-24,02-2024,Central,Technology,790,230
