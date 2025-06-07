@@ -6,7 +6,6 @@ This project presents a simple and clean sales dashboard built using Microsoft E
 
 - `superstore_sales_insights.docx` – A Word document containing summarized insights from the dashboard.
 - `superstore_sales_dashboard.pdf` – A PDF export of the visual sales dashboard (originally created in Excel).
-- `superstore_data.csv ` - The data for the analysis
 - `readme.md` – This file.
 
 ## Tools Used
